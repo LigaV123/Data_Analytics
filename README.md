@@ -1,7 +1,7 @@
 # Data Analytics
 ## Personal Overview
 This task I did in an Excel file. 
-The result is presented in the Jupyter Notebook. It is possible to view it here: (dataAnalytics.ipynb)[https://github.com/LigaV123/Data_Analytics/blob/main/dataAnalytics.ipynb]
+The result is presented in the Jupyter Notebook. It is possible to view it here: [dataAnalytics.ipynb](https://github.com/LigaV123/Data_Analytics/blob/main/dataAnalytics.ipynb)
 or copy this repository and open dataAnalytics.ipynb file with Visual Studio Code or Visual Studio.
 I have included some simple graphics for data visual representation.
 With more given time I would have been able to make graphics look more neater, and modern.
